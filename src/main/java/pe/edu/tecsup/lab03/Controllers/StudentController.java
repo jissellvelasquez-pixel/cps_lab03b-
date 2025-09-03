@@ -6,4 +6,7 @@ public class StudentController {
         return "Adiós estudiante!";
     }
 
+    public String listStudents() {
+
+    }
 }
